@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 91d51d2a40d1aa64fb79ca4a683c1613
+timeCreated: 1459168256
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - wall: {fileID: 171898, guid: 37ff51a2d128b694088883cee20b0392, type: 2}
+  - playerPrefab: {instanceID: 0}
+  - creaturePrefab: {instanceID: 0}
+  - exitPrefab: {instanceID: 0}
+  - player: {instanceID: 0}
+  - exit: {instanceID: 0}
+  - creature: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
